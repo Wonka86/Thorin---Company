@@ -37,3 +37,10 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+
+pip3 install Flask
+
+pip3 freeze --local > requirements.txt (puts requirements into a txt)
+
+pip3 install -r requirements.txt (if needed installs requirements)
